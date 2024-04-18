@@ -7,7 +7,7 @@
     <string name="route_to">Куда</string>
 
     <string name="point_title">Название</string>
-    <string name="point_coordinates">Coordinates</string>
+    <string name="point_coordinates">Координаты</string>
 
     <string name="item_add">Добавить</string>
     <string name="item_delete">Удалить</string>
