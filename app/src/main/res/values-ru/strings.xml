@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Маршруты</string>
+
+    <string name="route_go">Поехали!</string>
+    <string name="route_from">Откуда</string>
+    <string name="route_to">Куда</string>
+
+    <string name="point_title">Название</string>
+    <string name="point_coordinates">Coordinates</string>
+
+    <string name="item_add">Добавить</string>
+    <string name="item_delete">Удалить</string>
+    <string name="item_save">Сохранить</string>
+
+    <string name="mode_routes">Маршруты</string>
+    <string name="mode_points">Точки</string>
+    <string name="mode_new_route">Новый маршрут</string>
+    <string name="mode_new_point">Новая точка</string>
+
+</resources>

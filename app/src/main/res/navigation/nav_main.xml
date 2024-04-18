@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_main"
+    app:startDestination="@id/routesFragment">
+
+    <fragment
+        android:id="@+id/routesFragment"
+        android:name="com.raistlin.myroutes.ui.RoutesFragment"
+        android:label="@string/mode_routes" />
+    <fragment
+        android:id="@+id/pointsFragment"
+        android:name="com.raistlin.myroutes.ui.PointsFragment"
+        android:label="@string/mode_points" />
+    <fragment
+        android:id="@+id/newRouteFragment"
+        android:name="com.raistlin.myroutes.ui.NewRouteFragment"
+        android:label="@string/mode_new_route" />
+    <fragment
+        android:id="@+id/newPointFragment"
+        android:name="com.raistlin.myroutes.ui.NewPointFragment"
+        android:label="@string/mode_new_point" />
+</navigation>

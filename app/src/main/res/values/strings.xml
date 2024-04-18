@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Routes</string>
+
+    <string name="route_go">Go</string>
+    <string name="route_from">From</string>
+    <string name="route_to">To</string>
+
+    <string name="point_title">Title</string>
+    <string name="point_coordinates">Coordinates</string>
+
+    <string name="item_add">Add</string>
+    <string name="item_delete">Delete</string>
+    <string name="item_save">Save</string>
+
+    <string name="mode_routes">Routes</string>
+    <string name="mode_points">Points</string>
+    <string name="mode_new_route">New route</string>
+    <string name="mode_new_point">New point</string>
+
+</resources>

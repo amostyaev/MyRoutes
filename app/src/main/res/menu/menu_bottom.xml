@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/routesFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom_route"
+        android:title="@string/mode_routes" />
+    <item
+        android:id="@+id/pointsFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom_point"
+        android:title="@string/mode_points" />
+</menu>
